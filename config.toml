@@ -1,4 +1,5 @@
-baseURL = 'https://AzevedoJason-FS.github.io/static-website-hugo'
+baseURL = 'https://AzevedoJason-FS.github.io/static-website-hugo/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+publishDir = "docs"
 theme = "ananke"
